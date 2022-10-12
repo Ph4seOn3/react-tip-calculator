@@ -45,4 +45,8 @@ input[type="text"] {
   height: 20px;
   background: #38d;
   color: #fff;
+  cursor: pointer;
+}
+.result {
+  text-align: right;
 }
